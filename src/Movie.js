@@ -32,4 +32,4 @@ Movie.propTypes = {
 };
 export default Movie;
 
-// temp 시@발 ㅁ아; ㅋ
+// temp 연구중 
