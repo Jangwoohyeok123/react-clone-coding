@@ -31,3 +31,5 @@ Movie.propTypes = {
   genres: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
 export default Movie;
+
+// temp 시@발 ㅁ아; ㅋ
