@@ -30,4 +30,6 @@ Movie.propTypes = {
   genres: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
 export default Movie;
-// branch xoo 추가 22
+
+// branch main test
+
